@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 22,
+      "avatar": "blob:http://localhost:3000/b0e54b9e-e79c-409a-8a97-eafc72f45a0c"
+    },
+    {
+      "id": 78,
+      "avatar": "blob:http://localhost:3000/7fcc5898-fdbd-4ec8-94fd-4073b1bbd5c0"
+    },
+    {
+      "id": 53,
+      "avatar": "blob:http://localhost:3000/3a0d6f46-a699-427c-b68e-789ff518f934"
+    },
+    {
+      "id": 8,
+      "avatar": ""
+    }
+  ]
+}
